@@ -8,7 +8,7 @@ in addition to provide the owner of the garage with income everyday
 - Drivers designed for the project: Timer, LCD, Keypad, servo motor, Internal EEPROM and Bluetooth
 
 - Here is the specs of the project:
-**Default state:**
+- **Default state:**
 the dfault state of the garage is to display the message "**Smart Garage :D**" 
 - **Entrance gate:**
 When the IR sensor in the entrance detected a car:
