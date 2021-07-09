@@ -6,6 +6,8 @@ in addition to calculating time for each car to ask them for fees for their time
 the system also offers a Bluetooth application to connect with the MCU to enable users to do all the previous features with their mobiles, 
 in addition to provide the owner of the garage with income everyday 
 - Drivers designed for the project: Timer, LCD, Keypad, servo motor, Internal EEPROM and Bluetooth
+![WhatsApp Image 2021-06-02 at 17 17 06](https://user-images.githubusercontent.com/75904835/125091126-6ce99980-e0d0-11eb-8950-7c06b3c0d497.jpeg)
+
 
 - Here is the specs of the project:
 - **Default state:**
