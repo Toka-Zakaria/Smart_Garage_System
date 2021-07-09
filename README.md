@@ -23,7 +23,7 @@ When the IR sensor in the entrance detected a car:
  9. if he selected **subscriber** mode:
  10. System will ask him to enter his passcode 
  11. if he entered wrong ID the System will display wrong ID and return the system to 10 step until he entered right passcode
- 12. if he entered right passcode, system will open the door same as 6 & 7 step
+ 12. if he entered right passcode, system will open the door same as 6 & 7 step then return to default state
  - **Exit gate:**
  When the IR sensor in the exit detected a car:
  1. The LCD will display a welcome back message
@@ -38,5 +38,5 @@ When the IR sensor in the entrance detected a car:
   9. if he selected **subscriber** mode:
  10. System will ask him to enter his passcode 
  11. if he entered wrong ID the System will display wrong ID and return the system to 10 step until he entered right passcode
- 12. if he entered right passcode, system will open the door same as 6 & 7 step
+ 12. if he entered right passcode, system will open the door same as 6 & 7 step then return to default state
   
